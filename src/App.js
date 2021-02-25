@@ -1,7 +1,8 @@
+import TelaPrevisaoTempo from "./Component/TelaPrevisaoTempo";
 function App() {
   return (
     <div className="App">
-      <h1>Previsão Tempo</h1>
+      <TelaPrevisaoTempo />
     </div>
   );
 }
